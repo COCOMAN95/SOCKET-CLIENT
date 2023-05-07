@@ -1,6 +1,6 @@
 import socket
 
-HOST = '192.168.2.27'
+HOST = '127.0.0.1'
 open_ports = []
 
 for port in range(20,30):
